@@ -11,8 +11,6 @@ const client = new Client({
 })
 
 client.commands = new Collection();
-client.prefixCommands = new Collection();
-client.aliases = new Collection();
 
 const handlers = fs.readdirSync('./src/handlers').filter(f => f.endsWith('.js'));
 
