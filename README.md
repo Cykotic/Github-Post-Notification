@@ -25,7 +25,7 @@ The script runs on a timed interval, periodically fetching GitHub events for eac
   - `guild`: Discord guild (server) ID
   - `channel`: Discord channel ID for notifications
 
-## Script Logic
+## Project Logic
 
 1. Fetch stored GitHub user information from the database.
 2. Iterate over each user's stored information.
