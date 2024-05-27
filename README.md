@@ -37,5 +37,5 @@ The script runs on a timed interval, periodically fetching GitHub events for eac
    - Update the database with the timestamp of the latest processed event.
 
 ## Credits
-This project was originally developed using SQLite but has been converted to use MongoDB. The Orginal Code
+This project was originally developed using SQLite but has been converted to use MongoDB.
 - The Orginal Code > [EyalGreennn/Github-Post-Notification](https://github.com/EyalGreennn/Github-Post-Notification)
